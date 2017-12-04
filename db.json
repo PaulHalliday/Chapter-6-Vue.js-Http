@@ -1,0 +1,12 @@
+{
+  "courses": [
+    {
+      "name": "Vue.js Design Patterns",
+      "id": 1
+    },
+    {
+      "name": "Angular: From Beginner to Advanced",
+      "id": 2
+    }
+  ]
+}
